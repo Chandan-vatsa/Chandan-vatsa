@@ -20,7 +20,7 @@ I'm passionate about understanding **how people interact with technology**—com
 
 <h2>About Me</h2>
 
-* **Leadership – Product-led Growth** at <strong>Zoho</strong> with deep interests in product strategy, Human-Computer Interaction (HCI), user research, behavioral psychology, AI-powered product experiences, and data-driven decision making.
+* **Product led Growth** Person with deep interests in product strategy, Human-Computer Interaction (HCI), user research, behavioral psychology, AI-powered product experiences, and data-driven decision making.
 
 * Building custom **GenAI products** focused on Product Managers, marketers, customer education, and leveraging multi-agent architectures, retrieval systems, and modern LLM frameworks.
 
