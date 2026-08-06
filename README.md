@@ -4,7 +4,7 @@ I build AI-powered products and product management frameworks that help teams sh
 
 My work sits at the intersection of **Product Management, Generative AI, and Product-led Growth and Strategy**. I enjoy turning complex product ideas into practical AI tools, and scalable product workflows.
 
-I'm passionate about understanding **how people interact with technology**—combining user psychology, product thinking, and AI to build products that solve real problems.
+I'm passionate about understanding **how people interact with technology** - combining user psychology, product thinking, and AI to build products that solve real-world problems.
 
 ---
 
